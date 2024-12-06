@@ -1,0 +1,4 @@
+* pandom rassword generator made in rust
+
+my password generator that i made in rust
+feel free to contribute :)
